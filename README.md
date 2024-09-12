@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data and Business Analyst
 -------------------------
 
-Highly skilled and detail-oriented data analyst who collects, organises, and interprets large datasets to drive business solutions. Proficient in statistical analysis, data visualisation, and data management. Adept at using various analytical tools and programming languages to uncover insights and support decision-making processes.
+Highly skilled and detail-oriented data and business analyst who collects, organises, and interprets large datasets to drive business solutions. Proficient in statistical analysis, data visualisation, and data management. Adept at using various analytical tools and programming languages to uncover insights and support decision-making processes.
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [shakirat2026@gmail.com](mailto:shakirat2026@gmail.com)
