@@ -7,7 +7,7 @@ Data and Business Analyst
 Highly skilled and detail-oriented data and business analyst who collects, organises, and interprets large datasets to drive business solutions. Proficient in statistical analysis, data visualisation, and data management. Adept at using various analytical tools and programming languages to uncover insights and support decision-making processes.
 
 * 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [shakirat2026@gmail.com](mailto:shakirat2026@gmail.com)
+* ✉️  You can contact me at [shakirat2026@gmail.com](mailto:shakirat2026@gmail.com) and https://sites.google.com/view/shakiratobaks/home
 * 🤝  I'm open to collaborating on Interesting projects
 
 <a href="https://www.github.com/SAOB2024" target="_blank" rel="noreferrer"><img
